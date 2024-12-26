@@ -26,7 +26,7 @@ export default {
       assets: [
         { assetName: "Printer", department: "HR" },
         { assetName: "Monitor", department: "IT" },
-        { assetName: "Barcode Scanner", department: "Accounts" },
+        { assetName: "Barcode Scanner", department: "ACCOUNT" },
       ],
     };
   },
